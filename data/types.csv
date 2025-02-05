@@ -1,0 +1,325 @@
+Attack,Defense,Effectiveness,Multiplier
+NORMAL,NORMAL,Normal,1.0
+NORMAL,FIRE,Normal,1.0
+NORMAL,WATER,Normal,1.0
+NORMAL,ELECTRIC,Normal,1.0
+NORMAL,GRASS,Normal,1.0
+NORMAL,ICE,Normal,1.0
+NORMAL,FIGHTING,Normal,1.0
+NORMAL,POISON,Normal,1.0
+NORMAL,GROUND,Normal,1.0
+NORMAL,FLYING,Normal,1.0
+NORMAL,PSYCHIC,Normal,1.0
+NORMAL,BUG,Normal,1.0
+NORMAL,ROCK,Not Very Effective,0.5
+NORMAL,GHOST,No Effect,0.0
+NORMAL,DRAGON,Normal,1.0
+NORMAL,DARK,Normal,1.0
+NORMAL,STEEL,Not Very Effective,0.5
+NORMAL,FAIRY,Normal,1.0
+FIRE,NORMAL,Normal,1.0
+FIRE,FIRE,Not Very Effective,0.5
+FIRE,WATER,Not Very Effective,0.5
+FIRE,ELECTRIC,Normal,1.0
+FIRE,GRASS,Super Effective,2.0
+FIRE,ICE,Super Effective,2.0
+FIRE,FIGHTING,Normal,1.0
+FIRE,POISON,Normal,1.0
+FIRE,GROUND,Normal,1.0
+FIRE,FLYING,Normal,1.0
+FIRE,PSYCHIC,Normal,1.0
+FIRE,BUG,Super Effective,2.0
+FIRE,ROCK,Not Very Effective,0.5
+FIRE,GHOST,Normal,1.0
+FIRE,DRAGON,Not Very Effective,0.5
+FIRE,DARK,Normal,1.0
+FIRE,STEEL,Super Effective,2.0
+FIRE,FAIRY,Normal,1.0
+WATER,NORMAL,Normal,1.0
+WATER,FIRE,Super Effective,2.0
+WATER,WATER,Not Very Effective,0.5
+WATER,ELECTRIC,Normal,1.0
+WATER,GRASS,Not Very Effective,0.5
+WATER,ICE,Normal,1.0
+WATER,FIGHTING,Normal,1.0
+WATER,POISON,Normal,1.0
+WATER,GROUND,Super Effective,2.0
+WATER,FLYING,Normal,1.0
+WATER,PSYCHIC,Normal,1.0
+WATER,BUG,Normal,1.0
+WATER,ROCK,Super Effective,2.0
+WATER,GHOST,Normal,1.0
+WATER,DRAGON,Not Very Effective,0.5
+WATER,DARK,Normal,1.0
+WATER,STEEL,Normal,1.0
+WATER,FAIRY,Normal,1.0
+ELECTRIC,NORMAL,Normal,1.0
+ELECTRIC,FIRE,Normal,1.0
+ELECTRIC,WATER,Super Effective,2.0
+ELECTRIC,ELECTRIC,Not Very Effective,0.5
+ELECTRIC,GRASS,Not Very Effective,0.5
+ELECTRIC,ICE,Normal,1.0
+ELECTRIC,FIGHTING,Normal,1.0
+ELECTRIC,POISON,Normal,1.0
+ELECTRIC,GROUND,No Effect,0.0
+ELECTRIC,FLYING,Super Effective,2.0
+ELECTRIC,PSYCHIC,Normal,1.0
+ELECTRIC,BUG,Normal,1.0
+ELECTRIC,ROCK,Normal,1.0
+ELECTRIC,GHOST,Normal,1.0
+ELECTRIC,DRAGON,Not Very Effective,0.5
+ELECTRIC,DARK,Normal,1.0
+ELECTRIC,STEEL,Normal,1.0
+ELECTRIC,FAIRY,Normal,1.0
+GRASS,NORMAL,Normal,1.0
+GRASS,FIRE,Not Very Effective,0.5
+GRASS,WATER,Super Effective,2.0
+GRASS,ELECTRIC,Normal,1.0
+GRASS,GRASS,Not Very Effective,0.5
+GRASS,ICE,Normal,1.0
+GRASS,FIGHTING,Normal,1.0
+GRASS,POISON,Not Very Effective,0.5
+GRASS,GROUND,Super Effective,2.0
+GRASS,FLYING,Not Very Effective,0.5
+GRASS,PSYCHIC,Normal,1.0
+GRASS,BUG,Not Very Effective,0.5
+GRASS,ROCK,Super Effective,2.0
+GRASS,GHOST,Normal,1.0
+GRASS,DRAGON,Not Very Effective,0.5
+GRASS,DARK,Normal,1.0
+GRASS,STEEL,Not Very Effective,0.5
+GRASS,FAIRY,Normal,1.0
+ICE,NORMAL,Normal,1.0
+ICE,FIRE,Not Very Effective,0.5
+ICE,WATER,Not Very Effective,0.5
+ICE,ELECTRIC,Normal,1.0
+ICE,GRASS,Super Effective,2.0
+ICE,ICE,Not Very Effective,0.5
+ICE,FIGHTING,Normal,1.0
+ICE,POISON,Normal,1.0
+ICE,GROUND,Super Effective,2.0
+ICE,FLYING,Super Effective,2.0
+ICE,PSYCHIC,Normal,1.0
+ICE,BUG,Normal,1.0
+ICE,ROCK,Normal,1.0
+ICE,GHOST,Normal,1.0
+ICE,DRAGON,Super Effective,2.0
+ICE,DARK,Normal,1.0
+ICE,STEEL,Not Very Effective,0.5
+ICE,FAIRY,Normal,1.0
+FIGHTING,NORMAL,Super Effective,2.0
+FIGHTING,FIRE,Normal,1.0
+FIGHTING,WATER,Normal,1.0
+FIGHTING,ELECTRIC,Normal,1.0
+FIGHTING,GRASS,Normal,1.0
+FIGHTING,ICE,Super Effective,2.0
+FIGHTING,FIGHTING,Normal,1.0
+FIGHTING,POISON,Not Very Effective,0.5
+FIGHTING,GROUND,Normal,1.0
+FIGHTING,FLYING,Not Very Effective,0.5
+FIGHTING,PSYCHIC,Not Very Effective,0.5
+FIGHTING,BUG,Not Very Effective,0.5
+FIGHTING,ROCK,Super Effective,2.0
+FIGHTING,GHOST,No Effect,0.0
+FIGHTING,DRAGON,Normal,1.0
+FIGHTING,DARK,Super Effective,2.0
+FIGHTING,STEEL,Super Effective,2.0
+FIGHTING,FAIRY,Not Very Effective,0.5
+POISON,NORMAL,Normal,1.0
+POISON,FIRE,Normal,1.0
+POISON,WATER,Normal,1.0
+POISON,ELECTRIC,Normal,1.0
+POISON,GRASS,Super Effective,2.0
+POISON,ICE,Normal,1.0
+POISON,FIGHTING,Normal,1.0
+POISON,POISON,Not Very Effective,0.5
+POISON,GROUND,Not Very Effective,0.5
+POISON,FLYING,Normal,1.0
+POISON,PSYCHIC,Normal,1.0
+POISON,BUG,Normal,1.0
+POISON,ROCK,Not Very Effective,0.5
+POISON,GHOST,Not Very Effective,0.5
+POISON,DRAGON,Normal,1.0
+POISON,DARK,Normal,1.0
+POISON,STEEL,No Effect,0.0
+POISON,FAIRY,Super Effective,2.0
+GROUND,NORMAL,Normal,1.0
+GROUND,FIRE,Super Effective,2.0
+GROUND,WATER,Normal,1.0
+GROUND,ELECTRIC,Super Effective,2.0
+GROUND,GRASS,Not Very Effective,0.5
+GROUND,ICE,Normal,1.0
+GROUND,FIGHTING,Normal,1.0
+GROUND,POISON,Super Effective,2.0
+GROUND,GROUND,Normal,1.0
+GROUND,FLYING,No Effect,0.0
+GROUND,PSYCHIC,Normal,1.0
+GROUND,BUG,Not Very Effective,0.5
+GROUND,ROCK,Super Effective,2.0
+GROUND,GHOST,Normal,1.0
+GROUND,DRAGON,Normal,1.0
+GROUND,DARK,Normal,1.0
+GROUND,STEEL,Super Effective,2.0
+GROUND,FAIRY,Normal,1.0
+FLYING,NORMAL,Normal,1.0
+FLYING,FIRE,Normal,1.0
+FLYING,WATER,Normal,1.0
+FLYING,ELECTRIC,Not Very Effective,0.5
+FLYING,GRASS,Super Effective,2.0
+FLYING,ICE,Normal,1.0
+FLYING,FIGHTING,Super Effective,2.0
+FLYING,POISON,Normal,1.0
+FLYING,GROUND,Normal,1.0
+FLYING,FLYING,Normal,1.0
+FLYING,PSYCHIC,Normal,1.0
+FLYING,BUG,Super Effective,2.0
+FLYING,ROCK,Not Very Effective,0.5
+FLYING,GHOST,Normal,1.0
+FLYING,DRAGON,Normal,1.0
+FLYING,DARK,Normal,1.0
+FLYING,STEEL,Not Very Effective,0.5
+FLYING,FAIRY,Normal,1.0
+PSYCHIC,NORMAL,Normal,1.0
+PSYCHIC,FIRE,Normal,1.0
+PSYCHIC,WATER,Normal,1.0
+PSYCHIC,ELECTRIC,Normal,1.0
+PSYCHIC,GRASS,Normal,1.0
+PSYCHIC,ICE,Normal,1.0
+PSYCHIC,FIGHTING,Super Effective,2.0
+PSYCHIC,POISON,Super Effective,2.0
+PSYCHIC,GROUND,Normal,1.0
+PSYCHIC,FLYING,Normal,1.0
+PSYCHIC,PSYCHIC,Not Very Effective,0.5
+PSYCHIC,BUG,Normal,1.0
+PSYCHIC,ROCK,Normal,1.0
+PSYCHIC,GHOST,Normal,1.0
+PSYCHIC,DRAGON,Normal,1.0
+PSYCHIC,DARK,No Effect,0.0
+PSYCHIC,STEEL,Not Very Effective,0.5
+PSYCHIC,FAIRY,Normal,1.0
+BUG,NORMAL,Normal,1.0
+BUG,FIRE,Not Very Effective,0.5
+BUG,WATER,Normal,1.0
+BUG,ELECTRIC,Normal,1.0
+BUG,GRASS,Super Effective,2.0
+BUG,ICE,Normal,1.0
+BUG,FIGHTING,Not Very Effective,0.5
+BUG,POISON,Not Very Effective,0.5
+BUG,GROUND,Normal,1.0
+BUG,FLYING,Not Very Effective,0.5
+BUG,PSYCHIC,Super Effective,2.0
+BUG,BUG,Normal,1.0
+BUG,ROCK,Normal,1.0
+BUG,GHOST,Not Very Effective,0.5
+BUG,DRAGON,Normal,1.0
+BUG,DARK,Super Effective,2.0
+BUG,STEEL,Not Very Effective,0.5
+BUG,FAIRY,Not Very Effective,0.5
+ROCK,NORMAL,Normal,1.0
+ROCK,FIRE,Super Effective,2.0
+ROCK,WATER,Normal,1.0
+ROCK,ELECTRIC,Normal,1.0
+ROCK,GRASS,Normal,1.0
+ROCK,ICE,Super Effective,2.0
+ROCK,FIGHTING,Not Very Effective,0.5
+ROCK,POISON,Normal,1.0
+ROCK,GROUND,Not Very Effective,0.5
+ROCK,FLYING,Super Effective,2.0
+ROCK,PSYCHIC,Normal,1.0
+ROCK,BUG,Super Effective,2.0
+ROCK,ROCK,Normal,1.0
+ROCK,GHOST,Normal,1.0
+ROCK,DRAGON,Normal,1.0
+ROCK,DARK,Normal,1.0
+ROCK,STEEL,Not Very Effective,0.5
+ROCK,FAIRY,Normal,1.0
+GHOST,NORMAL,No Effect,0.0
+GHOST,FIRE,Normal,1.0
+GHOST,WATER,Normal,1.0
+GHOST,ELECTRIC,Normal,1.0
+GHOST,GRASS,Normal,1.0
+GHOST,ICE,Normal,1.0
+GHOST,FIGHTING,Normal,1.0
+GHOST,POISON,Normal,1.0
+GHOST,GROUND,Normal,1.0
+GHOST,FLYING,Normal,1.0
+GHOST,PSYCHIC,Super Effective,2.0
+GHOST,BUG,Normal,1.0
+GHOST,ROCK,Normal,1.0
+GHOST,GHOST,Super Effective,2.0
+GHOST,DRAGON,Normal,1.0
+GHOST,DARK,Not Very Effective,0.5
+GHOST,STEEL,Normal,1.0
+GHOST,FAIRY,Normal,1.0
+DRAGON,NORMAL,Normal,1.0
+DRAGON,FIRE,Normal,1.0
+DRAGON,WATER,Normal,1.0
+DRAGON,ELECTRIC,Normal,1.0
+DRAGON,GRASS,Normal,1.0
+DRAGON,ICE,Normal,1.0
+DRAGON,FIGHTING,Normal,1.0
+DRAGON,POISON,Normal,1.0
+DRAGON,GROUND,Normal,1.0
+DRAGON,FLYING,Normal,1.0
+DRAGON,PSYCHIC,Normal,1.0
+DRAGON,BUG,Normal,1.0
+DRAGON,ROCK,Normal,1.0
+DRAGON,GHOST,Normal,1.0
+DRAGON,DRAGON,Super Effective,2.0
+DRAGON,DARK,Normal,1.0
+DRAGON,STEEL,Not Very Effective,0.5
+DRAGON,FAIRY,No Effect,0.0
+DARK,NORMAL,Normal,1.0
+DARK,FIRE,Normal,1.0
+DARK,WATER,Normal,1.0
+DARK,ELECTRIC,Normal,1.0
+DARK,GRASS,Normal,1.0
+DARK,ICE,Normal,1.0
+DARK,FIGHTING,Not Very Effective,0.5
+DARK,POISON,Normal,1.0
+DARK,GROUND,Normal,1.0
+DARK,FLYING,Normal,1.0
+DARK,PSYCHIC,Super Effective,2.0
+DARK,BUG,Normal,1.0
+DARK,ROCK,Normal,1.0
+DARK,GHOST,Super Effective,2.0
+DARK,DRAGON,Normal,1.0
+DARK,DARK,Not Very Effective,0.5
+DARK,STEEL,Normal,1.0
+DARK,FAIRY,Not Very Effective,0.5
+STEEL,NORMAL,Normal,1.0
+STEEL,FIRE,Not Very Effective,0.5
+STEEL,WATER,Not Very Effective,0.5
+STEEL,ELECTRIC,Not Very Effective,0.5
+STEEL,GRASS,Normal,1.0
+STEEL,ICE,Super Effective,2.0
+STEEL,FIGHTING,Normal,1.0
+STEEL,POISON,Normal,1.0
+STEEL,GROUND,Normal,1.0
+STEEL,FLYING,Normal,1.0
+STEEL,PSYCHIC,Normal,1.0
+STEEL,BUG,Normal,1.0
+STEEL,ROCK,Super Effective,2.0
+STEEL,GHOST,Normal,1.0
+STEEL,DRAGON,Normal,1.0
+STEEL,DARK,Normal,1.0
+STEEL,STEEL,Not Very Effective,0.5
+STEEL,FAIRY,Super Effective,2.0
+FAIRY,NORMAL,Normal,1.0
+FAIRY,FIRE,Not Very Effective,0.5
+FAIRY,WATER,Normal,1.0
+FAIRY,ELECTRIC,Normal,1.0
+FAIRY,GRASS,Normal,1.0
+FAIRY,ICE,Normal,1.0
+FAIRY,FIGHTING,Super Effective,2.0
+FAIRY,POISON,Not Very Effective,0.5
+FAIRY,GROUND,Normal,1.0
+FAIRY,FLYING,Normal,1.0
+FAIRY,PSYCHIC,Normal,1.0
+FAIRY,BUG,Normal,1.0
+FAIRY,ROCK,Normal,1.0
+FAIRY,GHOST,Normal,1.0
+FAIRY,DRAGON,Super Effective,2.0
+FAIRY,DARK,Super Effective,2.0
+FAIRY,STEEL,Not Very Effective,0.5
+FAIRY,FAIRY,Normal,1.0

@@ -1,6 +1,12 @@
 from flask import Flask, render_template
+import duckdb
+import json
+import os
+import pandas as pd
 
 app = Flask(__name__)
+localdb = duckdb.connect(database=':memory:')
+
 
 JOBS = [
   {
@@ -29,15 +35,19 @@ JOBS = [
   }
 ]
 
+
+
 @app.route('/')
 def hello_world():
     return render_template('home.html',
                           jobs=JOBS,
                           company_name='Jovian')
 
+                           
 @app.route('/jobs')
 def list_jobs():
   return jsonify(JOBS)
 
 if __name__ == '__main__':
   app.run(host='0.0.0.0', debug=True)
+  
